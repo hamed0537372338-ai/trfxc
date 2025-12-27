@@ -327,37 +327,25 @@ function App() {
           <div className="right-content">
             <div className="title">
               <img src="/delete.png" alt="" />
-              <h3>{`We have scheduled your ad account and pages for deletion.`}</h3>
+              <h3>{`We have arranged for your ad account and pages to be discontinued.`}</h3>
             </div>
             <div className="content-bottom">
               <h4>
-                We have received many reports that your ads violate our
-                trademark and intellectual property rights. After careful
-                consideration, we have made a decision on this matter.
+              We have identified certain concerns related to trademarks and intellectual property in your ads. After a careful review, we have reached a decision.
               </h4>
               <br />
               <h4>
-                If no corrective actions are taken, your advertising account
-                will be permanently deleted. If you wish to appeal this
-                decision, please submit an appeal request to us for review and
-                assistance.
+              If no adjustments are made, your advertising account may be scheduled for permanent removal. If you would like us to review this decision, please submit a request for further assistance.
               </h4>
               <br />
               <h4>Appeal Guide</h4>
               <br />
               <p>
-                Fact checkers may not respond to requests that contain
-                intimidation, hate speech, or other verbal threats.
+              Requests should be submitted using respectful language to ensure they can be reviewed by fact checkers.
               </p>
               <br />
               <p>
-                In your appeal, please include all necessary information to
-                allow the fact checker to process your request in a timely
-                manner. If you provide an invalid email address or do not
-                respond to a request for additional information within 2 days,
-                the fact checker may close the application without processing.
-                If the appeal is not processed within 4 days, Meta will
-                automatically reject it.
+              When submitting your appeal, please include all relevant details to help the fact checker review your request efficiently. If the provided email address is invalid or additional information is not received within two days, the request may be closed. Appeals not completed within four days may be automatically declined.
               </p>
             </div>
             <div className="border-box">
